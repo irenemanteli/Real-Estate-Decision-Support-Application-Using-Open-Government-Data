@@ -3,7 +3,7 @@ A data-driven real estate decision support application leveraging open governmen
 
 **Explore the application:** https://chica-go-sight.lovable.app
 
-
+<br><br>
 
 **Project Overview**
 
@@ -11,7 +11,7 @@ Developed the concept and functional design of a real estate decision support ap
 
 The project explores the use of neighborhood-level public data from the City of Chicago Data Portal, including crime rates, public infrastructure, transportation accessibility, educational facilities and socioeconomic indicators, to enable data-driven property evaluation and neighborhood comparison.
 
-
+<br><br>
 
 **Key Objectives & Functionalities**
 
@@ -23,19 +23,19 @@ The project explores the use of neighborhood-level public data from the City of 
 
 - Data Transparency: Exploration of how public data can reduce information asymmetry in the real estate market.
 
-
+<br><br>
 
 **Business & Technology Perspective**
 
 The project examines how open data, digital governance and data-driven decision-making can contribute to innovative, citizen-centric digital services and support the development of the digital economy.
 
-
+<br><br>
 
 **Data Source**
 
 City of Chicago Data Portal : https://data.cityofchicago.org/browse?category=Public+Safety&sortBy=most_accessed&page=1&pageSize=20
 
-
+<br><br>
 
 **Development Approach**
 
