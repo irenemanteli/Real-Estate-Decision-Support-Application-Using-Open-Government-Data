@@ -15,13 +15,13 @@ The project explores the use of neighborhood-level public data from the City of 
 
 **Key Objectives & Functionalities**
 
--Open Data Integration: Utilization of publicly available government datasets to support real estate analysis.
+- Open Data Integration: Utilization of publicly available government datasets to support real estate analysis.
 
--Comparative Analytics: Evaluation and comparison of neighborhoods based on multiple socioeconomic and location-related indicators.
+- Comparative Analytics: Evaluation and comparison of neighborhoods based on multiple socioeconomic and location-related indicators.
 
--Decision Support: Conceptualization of scoring mechanisms to facilitate informed property rental and investment decisions.
+- Decision Support: Conceptualization of scoring mechanisms to facilitate informed property rental and investment decisions.
 
--Data Transparency: Exploration of how public data can reduce information asymmetry in the real estate market.
+- Data Transparency: Exploration of how public data can reduce information asymmetry in the real estate market.
 
 
 
@@ -39,8 +39,8 @@ City of Chicago Data Portal : https://data.cityofchicago.org/browse?category=Pub
 
 **Development Approach**
 
--AI-Assisted Development: Conceptualization, functional specification and application design through structured prompting using Lovable.
+- AI-Assisted Development: Conceptualization, functional specification and application design through structured prompting using Lovable.
 
--API-Based Data Integration: Integration with the City of Chicago Data Portal API to retrieve continuously updated public datasets.
+- API-Based Data Integration: Integration with the City of Chicago Data Portal API to retrieve continuously updated public datasets.
 
--Data-Driven Functionality: Utilization of real-time or regularly updated neighborhood-level data to support comparative analysis and property-related decision-making.
+- Data-Driven Functionality: Utilization of real-time or regularly updated neighborhood-level data to support comparative analysis and property-related decision-making.
