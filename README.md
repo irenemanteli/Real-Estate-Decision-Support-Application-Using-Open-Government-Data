@@ -14,8 +14,11 @@ The project explores the use of neighborhood-level public data from the City of 
 **Key Objectives & Functionalities**
 
 -Open Data Integration: Utilization of publicly available government datasets to support real estate analysis.
+
 -Comparative Analytics: Evaluation and comparison of neighborhoods based on multiple socioeconomic and location-related indicators.
+
 -Decision Support: Conceptualization of scoring mechanisms to facilitate informed property rental and investment decisions.
+
 -Data Transparency: Exploration of how public data can reduce information asymmetry in the real estate market.
 
 
